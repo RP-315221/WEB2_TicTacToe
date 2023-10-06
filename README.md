@@ -15,7 +15,7 @@ Tic Tac Toe is a well-known game where two players take turns marking spaces on 
 
 This web-based version of Tic Tac Toe allows you to play the game right in your web browser.
 
-Tic Tac Toe Screenshot
+![Tic Tac Toe Screenshot](images/TicTacToeGame.png)
 
 ## Usage
 This section explains how to run the game on your local machine or host it on your own server.
