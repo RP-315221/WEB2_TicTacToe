@@ -21,7 +21,7 @@ This web-based version of Tic Tac Toe allows you to play the game right in your 
 This section explains how to run the game on your local machine or host it on your own server.
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-github-username/tic-tac-toe.git
+git clone https://github.com/RyzhasMomentas/WEB2_TicTacToe.git
 ```
 Open the index.html file in your web browser.
 Start playing Tic Tac Toe!
